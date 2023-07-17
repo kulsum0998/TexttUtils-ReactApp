@@ -1,4 +1,4 @@
-<div align='center'><img src='https://thumbs.dreamstime.com/b/textbook-writing-vector-icon-filled-flat-sign-mobile-concept-web-design-book-page-pen-glyph-education-symbol-logo-161131911.jpg'/></div>
+<div align='center'><img src='https://thumbs.dreamstime.com/b/book-icon-logo-flat-style-dark-background-white-132818742.jpg'></div>
 
 <h2>About the project</h2>
 
